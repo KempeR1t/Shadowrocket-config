@@ -55,5 +55,6 @@ DOMAIN-SUFFIX,twtkr.com
 DOMAIN-SUFFIX,twttr.com
 DOMAIN-SUFFIX,vimeo.com
 DOMAIN-SUFFIX,vimeocdn.com
-DOMAIN-KEYWORD,instagram
 DOMAIN-SUFFIX,yt3.ggpht.com
+#KEYWORD
+DOMAIN-KEYWORD,instagram
