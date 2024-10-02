@@ -19,6 +19,10 @@ DOMAIN-SUFFIX,g2a.com
 DOMAIN-SUFFIX,gaytube.com
 DOMAIN-SUFFIX,getoutline.org
 DOMAIN-SUFFIX,gmail.com
+DOMAIN-SUFFIX,imap.gmail.com
+DOMAIN-SUFFIX,pop.gmail.com
+DOMAIN-SUFFIX,smtp.gmail.com
+DOMAIN-SUFFIX,mail.google.com
 DOMAIN-SUFFIX,gravatar.com
 DOMAIN-SUFFIX,iherb.com
 DOMAIN-SUFFIX,intel.com
