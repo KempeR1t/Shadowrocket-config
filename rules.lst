@@ -1,7 +1,7 @@
 # NAME: Rules
 # AUTHOR: KempeR1t
 # REPO: https://github.com/KempeR1t/Shadowrocket-config
-# UPDATED: 2024-08-05
+# UPDATED: 2024-10-08
 DOMAIN-SUFFIX,ai.google.dev
 DOMAIN-SUFFIX,aol.com
 DOMAIN-SUFFIX,bbc.com
