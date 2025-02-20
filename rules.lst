@@ -92,6 +92,7 @@ DOMAIN-SUFFIX,twitthat.com
 DOMAIN-SUFFIX,twtkr.com
 DOMAIN-SUFFIX,vimeo.com
 DOMAIN-SUFFIX,vimeocdn.com
+DOMAIN-SUFFIX,x.ai
 DOMAIN-SUFFIX,yt3.ggpht.com
 DOMAIN-SUFFIX,zona.media
 #KEYWORD
@@ -103,3 +104,4 @@ DOMAIN-KEYWORD,tinder
 DOMAIN-KEYWORD,aistudio
 DOMAIN-KEYWORD,rutracker
 DOMAIN-KEYWORD,canva
+DOMAIN-KEYWORD,grok
