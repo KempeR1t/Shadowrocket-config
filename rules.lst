@@ -3,6 +3,8 @@
 # REPO: https://github.com/KempeR1t/Shadowrocket-config
 # UPDATED: 2025-02-20
 DOMAIN-SUFFIX,ai.google.dev
+DOMAIN,cdn.usefathom.com
+DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,aol.com
 DOMAIN-SUFFIX,bbc.com
 DOMAIN-SUFFIX,bestchange.com
@@ -11,6 +13,7 @@ DOMAIN-SUFFIX,bloomberg.com
 DOMAIN-SUFFIX,browserleaks.com
 DOMAIN-SUFFIX,callofdragonsguides.com
 DOMAIN-SUFFIX,canva.com
+DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,cloak.ist
 DOMAIN-SUFFIX,cdnfbsbx.com,force-remote-dns
 DOMAIN-SUFFIX,dailymotion.com
@@ -28,6 +31,7 @@ DOMAIN-SUFFIX,hetzner.com
 DOMAIN-SUFFIX,holod.media
 DOMAIN-SUFFIX,houseoffraser.co.uk
 DOMAIN-SUFFIX,iherb.com
+DOMAIN-SUFFIX,intercomcdn.com
 DOMAIN-SUFFIX,intel.com
 DOMAIN-SUFFIX,kahoot.com
 DOMAIN-SUFFIX,kino.pub
@@ -88,3 +92,5 @@ DOMAIN-KEYWORD,aistudio
 DOMAIN-KEYWORD,rutracker
 DOMAIN-KEYWORD,canva
 DOMAIN-KEYWORD,grok
+DOMAIN-KEYWORD,claude
+DOMAIN-KEYWORD,anthropic
