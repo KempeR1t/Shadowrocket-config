@@ -27,6 +27,7 @@ DOMAIN-SUFFIX,dyson.com
 DOMAIN-SUFFIX,etahub.com
 DOMAIN-SUFFIX,f.vision
 DOMAIN-SUFFIX,flibusta.is
+DOMAIN-SUFFIX,frameworks.jetbrains.com
 DOMAIN-SUFFIX,futbin.org
 DOMAIN-SUFFIX,g2a.com
 DOMAIN-SUFFIX,game.clashroyaleapp.com
@@ -43,6 +44,7 @@ DOMAIN-SUFFIX,houseoffraser.co.uk
 DOMAIN-SUFFIX,iherb.com
 DOMAIN-SUFFIX,intercomcdn.com
 DOMAIN-SUFFIX,intel.com
+DOMAIN-SUFFIX,jetbrains.com
 DOMAIN-SUFFIX,kahoot.com
 DOMAIN-SUFFIX,kino.pub
 DOMAIN-SUFFIX,kinozal.tv
@@ -115,6 +117,7 @@ DOMAIN-KEYWORD,tinder
 DOMAIN-KEYWORD,rutracker
 #IP
 IP-CIDR,95.216.186.135/32
+
 
 
 
