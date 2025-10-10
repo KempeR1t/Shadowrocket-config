@@ -114,12 +114,4 @@ DOMAIN-KEYWORD,tinder
 DOMAIN-KEYWORD,rutracker
 #IP
 IP-CIDR,95.216.186.135/32
-
-
-
-
-
-
-
-
-
+IP-CIDR,149.154.160.0/20,no-resolve
