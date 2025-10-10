@@ -70,6 +70,7 @@ DOMAIN-SUFFIX,pornhub.org
 DOMAIN-SUFFIX,pornhubpremium.com
 DOMAIN-SUFFIX,prntscr.com
 DOMAIN-SUFFIX,proton.me
+DOMAIN-SUFFIX,pypi.org
 DOMAIN-SUFFIX,quora.com
 DOMAIN-SUFFIX,republic.ru
 DOMAIN-SUFFIX,rutor.info
@@ -113,6 +114,7 @@ DOMAIN-KEYWORD,tinder
 DOMAIN-KEYWORD,rutracker
 #IP
 IP-CIDR,95.216.186.135/32
+
 
 
 
