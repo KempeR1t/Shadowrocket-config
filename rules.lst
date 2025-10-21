@@ -6,6 +6,7 @@ DOMAIN-SUFFIX,ai.google.dev
 DOMAIN,cdn.usefathom.com
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,aol.com
+DOMAIN-SUFFIX,backend.raycast.com
 DOMAIN-SUFFIX,bbc.com
 DOMAIN-SUFFIX,bestchange.com
 DOMAIN-SUFFIX,bestchange.ru
@@ -72,6 +73,7 @@ DOMAIN-SUFFIX,prntscr.com
 DOMAIN-SUFFIX,proton.me
 DOMAIN-SUFFIX,pypi.org
 DOMAIN-SUFFIX,quora.com
+DOMAIN-SUFFIX,raycast-store-extensions.s3-accelerate.amazonaws.com
 DOMAIN-SUFFIX,republic.ru
 DOMAIN-SUFFIX,rutor.info
 DOMAIN-SUFFIX,saveyourdata.info
@@ -118,4 +120,5 @@ DOMAIN-KEYWORD,tinder
 DOMAIN-KEYWORD,rutracker
 #IP
 IP-CIDR,95.216.186.135/32
+
 
