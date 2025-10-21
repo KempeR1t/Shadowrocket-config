@@ -74,6 +74,7 @@ DOMAIN-SUFFIX,proton.me
 DOMAIN-SUFFIX,pypi.org
 DOMAIN-SUFFIX,quora.com
 DOMAIN-SUFFIX,raycast-store-extensions.s3-accelerate.amazonaws.com
+DOMAIN-SUFFIX,releases.raycast.com
 DOMAIN-SUFFIX,republic.ru
 DOMAIN-SUFFIX,rutor.info
 DOMAIN-SUFFIX,saveyourdata.info
@@ -120,5 +121,6 @@ DOMAIN-KEYWORD,tinder
 DOMAIN-KEYWORD,rutracker
 #IP
 IP-CIDR,95.216.186.135/32
+
 
 
