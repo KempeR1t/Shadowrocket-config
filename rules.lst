@@ -6,7 +6,6 @@ DOMAIN-SUFFIX,ai.google.dev
 DOMAIN,cdn.usefathom.com
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,aol.com
-DOMAIN-SUFFIX,backend.raycast.com
 DOMAIN-SUFFIX,bbc.com
 DOMAIN-SUFFIX,bestchange.com
 DOMAIN-SUFFIX,bestchange.ru
@@ -73,8 +72,6 @@ DOMAIN-SUFFIX,prntscr.com
 DOMAIN-SUFFIX,proton.me
 DOMAIN-SUFFIX,pypi.org
 DOMAIN-SUFFIX,quora.com
-DOMAIN-SUFFIX,raycast-store-extensions.s3-accelerate.amazonaws.com
-DOMAIN-SUFFIX,releases.raycast.com
 DOMAIN-SUFFIX,republic.ru
 DOMAIN-SUFFIX,rutor.info
 DOMAIN-SUFFIX,saveyourdata.info
@@ -99,7 +96,6 @@ DOMAIN-SUFFIX,twtkr.com
 DOMAIN-SUFFIX,vimeo.com
 DOMAIN-SUFFIX,vimeocdn.com
 DOMAIN-SUFFIX,x.ai
-DOMAIN-SUFFIX,x.raycast-releases.com
 DOMAIN-SUFFIX,yt3.ggpht.com
 DOMAIN-SUFFIX,yt3.googleusercontent.com
 DOMAIN-SUFFIX,zona.media
@@ -123,3 +119,4 @@ DOMAIN-KEYWORD,rutracker
 DOMAIN-KEYWORD,raycast
 #IP
 IP-CIDR,95.216.186.135/32
+
