@@ -4,7 +4,7 @@
 # UPDATED: 2025-02-20
 DOMAIN-SUFFIX,1cent.host
 DOMAIN-SUFFIX,ai.google.dev
-DOMAIN,cdn.usefathom.com
+DOMAIN-SUFFIX,cdn.usefathom.com
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,aol.com
 DOMAIN-SUFFIX,bbc.com
