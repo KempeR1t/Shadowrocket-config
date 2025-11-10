@@ -2,6 +2,7 @@
 # AUTHOR: KempeR1t
 # REPO: https://github.com/KempeR1t/Shadowrocket-config
 # UPDATED: 2025-02-20
+DOMAIN-SUFFIX,1cent.host
 DOMAIN-SUFFIX,ai.google.dev
 DOMAIN,cdn.usefathom.com
 DOMAIN-SUFFIX,anthropic.com
