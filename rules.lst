@@ -92,6 +92,7 @@ DOMAIN-SUFFIX,soundcloud.com
 DOMAIN-SUFFIX,spotify.com
 DOMAIN-SUFFIX,sportsdirect.com
 DOMAIN-SUFFIX,tinder.com
+DOMAIN-SUFFIX,timberland.com
 DOMAIN-SUFFIX,tumblr.com
 DOMAIN-SUFFIX,twirpx.com
 DOMAIN-SUFFIX,twitthat.com
@@ -122,4 +123,5 @@ DOMAIN-KEYWORD,rutracker
 DOMAIN-KEYWORD,raycast
 #IP
 IP-CIDR,95.216.186.135/32
+
 
