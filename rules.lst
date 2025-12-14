@@ -16,10 +16,12 @@ DOMAIN-SUFFIX,callofdragonsguides.com
 DOMAIN-SUFFIX,canva.com
 DOMAIN-SUFFIX,cdn.id.supercell.com
 DOMAIN-SUFFIX,cdn.usefathom.com
+DOMAIN-SUFFIX,cdn77.org
 DOMAIN-SUFFIX,cdnfbsbx.com,force-remote-dns
 DOMAIN-SUFFIX,chess.com
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,cloak.ist
+DOMAIN-SUFFIX,cloudflare.net
 DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,contest.com
 DOMAIN-SUFFIX,coursera.org
@@ -27,8 +29,10 @@ DOMAIN-SUFFIX,dailymotion.com
 DOMAIN-SUFFIX,deepl.com
 DOMAIN-SUFFIX,dell.com
 DOMAIN-SUFFIX,dyson.com
+DOMAIN-SUFFIX,edgecastcdn.net
 DOMAIN-SUFFIX,etahub.com
 DOMAIN-SUFFIX,f.vision
+DOMAIN-SUFFIX,fastly.net
 DOMAIN-SUFFIX,flibusta.is
 DOMAIN-SUFFIX,futbin.org
 DOMAIN-SUFFIX,g2a.com
@@ -50,13 +54,11 @@ DOMAIN-SUFFIX,intel.com
 DOMAIN-SUFFIX,jetbrains.com
 DOMAIN-SUFFIX,kahoot.com
 DOMAIN-SUFFIX,kino.pub
-DOMAIN-SUFFIX,kinopub.me
-DOMAIN-SUFFIX,kinopub.online
 DOMAIN-SUFFIX,kinozal.tv
 DOMAIN-SUFFIX,kmail-lists.com
-DOMAIN-SUFFIX,kpapp.link
 DOMAIN-SUFFIX,line.me
 DOMAIN-SUFFIX,livefootball.su
+DOMAIN-SUFFIX,llnwd.net
 DOMAIN-SUFFIX,lostfilm.today
 DOMAIN-SUFFIX,medium.com
 DOMAIN-SUFFIX,meduza.io
@@ -122,6 +124,7 @@ DOMAIN-KEYWORD,canva
 DOMAIN-KEYWORD,claude
 DOMAIN-KEYWORD,grok
 DOMAIN-KEYWORD,kinopub
+DOMAIN-KEYWORD,kpapp
 DOMAIN-KEYWORD,musical.ly
 DOMAIN-KEYWORD,pornhub
 DOMAIN-KEYWORD,raycast
@@ -132,6 +135,7 @@ DOMAIN-KEYWORD,tiktok
 DOMAIN-KEYWORD,tinder
 #IP
 IP-CIDR,95.216.186.135/32
+
 
 
 
