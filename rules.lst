@@ -6,6 +6,7 @@ DOMAIN-SUFFIX,1cent.host
 DOMAIN-SUFFIX,ai.google.dev
 DOMAIN-SUFFIX,cdn.usefathom.com
 DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,akamaized.net
 DOMAIN-SUFFIX,aol.com
 DOMAIN-SUFFIX,bbc.com
 DOMAIN-SUFFIX,bestchange.com
@@ -19,6 +20,7 @@ DOMAIN-SUFFIX,chess.com
 DOMAIN-SUFFIX,coursera.org
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,cloak.ist
+DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,cdnfbsbx.com,force-remote-dns
 DOMAIN-SUFFIX,dailymotion.com
 DOMAIN-SUFFIX,dell.com
@@ -47,8 +49,11 @@ DOMAIN-SUFFIX,intel.com
 DOMAIN-SUFFIX,jetbrains.com
 DOMAIN-SUFFIX,kahoot.com
 DOMAIN-SUFFIX,kino.pub
+DOMAIN-SUFFIX,kinopub.me
+DOMAIN-SUFFIX,kinopub.online
 DOMAIN-SUFFIX,kinozal.tv
 DOMAIN-SUFFIX,kmail-lists.com
+DOMAIN-SUFFIX,kpapp.link
 DOMAIN-SUFFIX,line.me
 DOMAIN-SUFFIX,livefootball.su
 DOMAIN-SUFFIX,lostfilm.today
@@ -94,6 +99,7 @@ DOMAIN-SUFFIX,spotify.com
 DOMAIN-SUFFIX,sportsdirect.com
 DOMAIN-SUFFIX,tinder.com
 DOMAIN-SUFFIX,timberland.com
+DOMAIN-SUFFIX,themoviedb.org
 DOMAIN-SUFFIX,tumblr.com
 DOMAIN-SUFFIX,twirpx.com
 DOMAIN-SUFFIX,twitthat.com
@@ -124,5 +130,6 @@ DOMAIN-KEYWORD,rutracker
 DOMAIN-KEYWORD,raycast
 #IP
 IP-CIDR,95.216.186.135/32
+
 
 
