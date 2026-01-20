@@ -66,6 +66,7 @@ DOMAIN-SUFFIX,meduza.io
 DOMAIN-SUFFIX,meta.com
 DOMAIN-SUFFIX,metacritic.com
 DOMAIN-SUFFIX,mos-gorsud.org
+DOMAIN-SUFFIX,mtgtop8.com
 DOMAIN-SUFFIX,netflix.com
 DOMAIN-SUFFIX,netpeaksoftware.com
 DOMAIN-SUFFIX,nnmclub.to
@@ -137,6 +138,7 @@ DOMAIN-KEYWORD,tiktok
 DOMAIN-KEYWORD,tinder
 #IP
 IP-CIDR,95.216.186.135/32
+
 
 
 
