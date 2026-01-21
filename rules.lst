@@ -27,6 +27,7 @@ DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,contest.com
 DOMAIN-SUFFIX,coursera.org
 DOMAIN-SUFFIX,dailymotion.com
+DOMAIN-SUFFIX,daybreakgames.com
 DOMAIN-SUFFIX,deepl.com
 DOMAIN-SUFFIX,dell.com
 DOMAIN-SUFFIX,dyson.com
@@ -138,6 +139,7 @@ DOMAIN-KEYWORD,tiktok
 DOMAIN-KEYWORD,tinder
 #IP
 IP-CIDR,95.216.186.135/32
+
 
 
 
