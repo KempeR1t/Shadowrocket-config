@@ -7,7 +7,6 @@ DOMAIN-SUFFIX,adaptive.ai
 DOMAIN-SUFFIX,adidas.com
 DOMAIN-SUFFIX,adobe.com
 DOMAIN-SUFFIX,ai.google.dev
-DOMAIN-SUFFIX,airbnb.com
 DOMAIN-SUFFIX,akamaized.net
 DOMAIN-SUFFIX,altsociety.ai
 DOMAIN-SUFFIX,anthropic.com
@@ -120,6 +119,7 @@ DOMAIN-SUFFIX,microsoft.com
 DOMAIN-SUFFIX,monica.im
 DOMAIN-SUFFIX,monochrome.tf
 DOMAIN-SUFFIX,mos-gorsud.org
+DOMAIN-SUFFIX,muscache.com
 DOMAIN-SUFFIX,mtgtop8.com
 DOMAIN-SUFFIX,netflix.com
 DOMAIN-SUFFIX,netpeaksoftware.com
@@ -199,6 +199,7 @@ DOMAIN-SUFFIX,yt3.googleusercontent.com
 DOMAIN-SUFFIX,yupp.ai
 DOMAIN-SUFFIX,zona.media
 #KEYWORD
+DOMAIN-KEYWORD,airbnb
 DOMAIN-KEYWORD,aistudio
 DOMAIN-KEYWORD,anthropic
 DOMAIN-KEYWORD,autodesk
