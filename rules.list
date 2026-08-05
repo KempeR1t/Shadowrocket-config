@@ -1,7 +1,7 @@
 # NAME: Rules
 # AUTHOR: KempeR1t
 # REPO: https://github.com/KempeR1t/Shadowrocket-config
-# UPDATED: 2026-04-19
+# UPDATED: 2026-08-05
 DOMAIN-SUFFIX,1cent.host
 DOMAIN-SUFFIX,adaptive.ai
 DOMAIN-SUFFIX,adidas.com
@@ -35,6 +35,12 @@ DOMAIN-SUFFIX,cdn77.org
 DOMAIN-SUFFIX,cdnfbsbx.com,force-remote-dns
 DOMAIN-SUFFIX,chess.com
 DOMAIN-SUFFIX,cici.com
+DOMAIN-SUFFIX,clashbot.wtf
+DOMAIN-SUFFIX,clashdeck.ai
+DOMAIN-SUFFIX,clashdecks.com
+DOMAIN-SUFFIX,clashdeckster.com
+DOMAIN-SUFFIX,clashroyaleapp.com
+DOMAIN-SUFFIX,clashroyaledeckbuilder.net
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,cloak.ist
 DOMAIN-SUFFIX,cloudflare.net
@@ -45,15 +51,17 @@ DOMAIN-SUFFIX,codeium.com
 DOMAIN-SUFFIX,composer.opera-api.com
 DOMAIN-SUFFIX,contest.com
 DOMAIN-SUFFIX,coursera.org
-DOMAIN-SUFFIX,clashroyaleapp.com
 DOMAIN-SUFFIX,crunchyroll.com
 DOMAIN-SUFFIX,dailymotion.com
 DOMAIN-SUFFIX,daybreakgames.com
+DOMAIN-SUFFIX,deckai.app
+DOMAIN-SUFFIX,deckmelon.com
+DOMAIN-SUFFIX,deckshop.pro
 DOMAIN-SUFFIX,deepl.com
 DOMAIN-SUFFIX,dell.com
 DOMAIN-SUFFIX,discours.io
-DOMAIN-SUFFIX,dyson.com
 DOMAIN-SUFFIX,dyson-h.assetsadobe2.com
+DOMAIN-SUFFIX,dyson.com
 DOMAIN-SUFFIX,edgecastcdn.net
 DOMAIN-SUFFIX,etahub.com
 DOMAIN-SUFFIX,f.vision
@@ -63,8 +71,8 @@ DOMAIN-SUFFIX,fastly.net
 DOMAIN-SUFFIX,fastspring.com
 DOMAIN-SUFFIX,fitnessonline.app
 DOMAIN-SUFFIX,flibusta.is
-DOMAIN-SUFFIX,ftcdn.net
 DOMAIN-SUFFIX,freshluts.com
+DOMAIN-SUFFIX,ftcdn.net
 DOMAIN-SUFFIX,futbin.org
 DOMAIN-SUFFIX,g2a.com
 DOMAIN-SUFFIX,game.brawlstarsgame.com
@@ -125,22 +133,24 @@ DOMAIN-SUFFIX,microsoft.com
 DOMAIN-SUFFIX,monica.im
 DOMAIN-SUFFIX,monochrome.tf
 DOMAIN-SUFFIX,mos-gorsud.org
-DOMAIN-SUFFIX,muscache.com
 DOMAIN-SUFFIX,mtgtop8.com
+DOMAIN-SUFFIX,muscache.com
 DOMAIN-SUFFIX,netflix.com
 DOMAIN-SUFFIX,netpeaksoftware.com
 DOMAIN-SUFFIX,nike.com
 DOMAIN-SUFFIX,nnmclub.to
+DOMAIN-SUFFIX,noff.gg
 DOMAIN-SUFFIX,notebooklm.google.com
-DOMAIN-SUFFIX,oyunfor.com
 DOMAIN-SUFFIX,onfastspring.com
 DOMAIN-SUFFIX,onrocket.site
 DOMAIN-SUFFIX,openrouter.ai
 DOMAIN-SUFFIX,openwrt.org
+DOMAIN-SUFFIX,oyunfor.com
 DOMAIN-SUFFIX,patreon.com
 DOMAIN-SUFFIX,pephop.ai
 DOMAIN-SUFFIX,phncdn.com
 DOMAIN-SUFFIX,phprcdn.com
+DOMAIN-SUFFIX,pixelcrux.com
 DOMAIN-SUFFIX,play.ai
 DOMAIN-SUFFIX,play.ht
 DOMAIN-SUFFIX,porngub.com
@@ -161,6 +171,8 @@ DOMAIN-SUFFIX,reka.ai
 DOMAIN-SUFFIX,republic.ru
 DOMAIN-SUFFIX,reve.art
 DOMAIN-SUFFIX,robinfrontend-pa.googleapis.com
+DOMAIN-SUFFIX,royaleapi.com
+DOMAIN-SUFFIX,royaletracker.gg
 DOMAIN-SUFFIX,rutor.info
 DOMAIN-SUFFIX,sanef.com
 DOMAIN-SUFFIX,saveyourdata.info
@@ -171,13 +183,16 @@ DOMAIN-SUFFIX,signal.art
 DOMAIN-SUFFIX,signal.org
 DOMAIN-SUFFIX,signalexpertspro.com
 DOMAIN-SUFFIX,signalusers.org
-DOMAIN-SUFFIX,skladchina.biz
 DOMAIN-SUFFIX,skladchik.com
+DOMAIN-SUFFIX,skladchina.biz
+DOMAIN-SUFFIX,skycoach.gg
+DOMAIN-SUFFIX,sleepyclash.com
 DOMAIN-SUFFIX,slideshare.net
 DOMAIN-SUFFIX,soundcloud.com
 DOMAIN-SUFFIX,spaceship.com
-DOMAIN-SUFFIX,spotify.com
 DOMAIN-SUFFIX,sportsdirect.com
+DOMAIN-SUFFIX,spotify.com
+DOMAIN-SUFFIX,statsroyale.com
 DOMAIN-SUFFIX,strava.com
 DOMAIN-SUFFIX,subito.it
 DOMAIN-SUFFIX,supabase.co
@@ -187,10 +202,11 @@ DOMAIN-SUFFIX,themoviedb.org
 DOMAIN-SUFFIX,timberland.com
 DOMAIN-SUFFIX,tinder.com
 DOMAIN-SUFFIX,tinkercad.com
-DOMAIN-SUFFIX,toolbox.app
 DOMAIN-SUFFIX,tmol.co
-DOMAIN-SUFFIX,trae.ai
+DOMAIN-SUFFIX,toolbox.app
 DOMAIN-SUFFIX,tradernet.global
+DOMAIN-SUFFIX,trae.ai
+DOMAIN-SUFFIX,trophycoach.com
 DOMAIN-SUFFIX,tumblr.com
 DOMAIN-SUFFIX,twirpx.com
 DOMAIN-SUFFIX,twitthat.com
