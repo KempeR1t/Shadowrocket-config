@@ -229,11 +229,7 @@ DOMAIN-SUFFIX,yt3.ggpht.com
 DOMAIN-SUFFIX,yt3.googleusercontent.com
 DOMAIN-SUFFIX,yupp.ai
 DOMAIN-SUFFIX,zona.media
-# COMMUNITY ADDITIONS
-# Source: https://github.com/1andrevich/Re-filter-lists/blob/main/community.lst
-# New non-redundant rules: 421
 DOMAIN-SUFFIX,4pda.ru
-DOMAIN-SUFFIX,4pda.to
 DOMAIN-SUFFIX,a360.co
 DOMAIN-SUFFIX,abook-club.ru
 DOMAIN-SUFFIX,ac-pocketcamp.com
