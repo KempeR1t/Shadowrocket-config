@@ -1454,5 +1454,7 @@ DOMAIN-KEYWORD,tiktok
 DOMAIN-KEYWORD,tinder
 DOMAIN-KEYWORD,typekit
 DOMAIN-KEYWORD,vans
+#DOMAIN
+DOMAIN,servd-anthropic-website.b-cdn.net
 #IP
 IP-CIDR,95.216.186.135/32
